@@ -1,1 +1,1 @@
-seatable/seatable-developer:latest
+seatable/seatable-developer:4.4.1
